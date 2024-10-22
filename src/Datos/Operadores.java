@@ -29,5 +29,10 @@ public class Operadores {
         System.out.println(restar);
         System.out.println(multiplicar);
         System.out.println(dividir);
+
+        // Concatenación de String
+        System.out.println("Aquí concatenamos un valor " + sumar);
+        System.out.println("Aquí concatenamos dos valores " + sumar + restar);
+        System.out.println("Aquí concatenamos un valor en dos " + (sumar+restar));
     }
 }
