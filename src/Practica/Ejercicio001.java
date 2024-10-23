@@ -1,6 +1,6 @@
 package Practica;
 
-public class Ejercicio01 {
+public class Ejercicio001 {
     public static void main(String[] args) {
         final double dolar = 1.137;
         final double salario = 2125.70;
