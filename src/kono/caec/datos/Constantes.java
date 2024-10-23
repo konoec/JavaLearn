@@ -1,4 +1,4 @@
-package Datos;
+package kono.caec.datos;
 
 public class Constantes {
     public static void main(String[] args) {

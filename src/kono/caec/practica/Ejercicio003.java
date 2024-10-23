@@ -1,4 +1,4 @@
-package Practica;
+package kono.caec.practica;
 
 public class Ejercicio003 {
     public static void main(String[] args) {

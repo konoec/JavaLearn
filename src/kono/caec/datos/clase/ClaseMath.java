@@ -1,4 +1,4 @@
-package Datos.Clase;
+package kono.caec.datos.clase;
 
 public class ClaseMath {
     public static void main(String[] args) {
