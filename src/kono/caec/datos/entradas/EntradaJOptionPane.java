@@ -1,4 +1,4 @@
-package kono.caec.datos;
+package kono.caec.datos.entradas;
 
 import javax.swing.JOptionPane;
 

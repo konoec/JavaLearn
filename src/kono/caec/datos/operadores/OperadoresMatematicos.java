@@ -1,6 +1,6 @@
-package kono.caec.datos;
+package kono.caec.datos.operadores;
 
-public class Operadores {
+public class OperadoresMatematicos {
     public static void main(String[] args) {
         int edadJuan = 15;
         int edadVictor = 16;
