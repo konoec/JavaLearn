@@ -1,4 +1,4 @@
-package kono.caec.datos.controlFlujo;
+package kono.caec.datos.controlFlujo.Condicionales;
 
 import javax.swing.*;
 
