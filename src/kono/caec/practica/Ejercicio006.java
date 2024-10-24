@@ -1,0 +1,18 @@
+package kono.caec.practica;
+
+import java.util.Scanner;
+
+public class Ejercicio006 {
+    public static void main(String[] args) {
+        Scanner entrada =  new Scanner(System.in);
+
+        System.out.println("Bienvenido a la calculadora de Raíces Cuadradas");
+        System.out.print("Ingrese el numero a sacar la raíz: ");
+
+        int numero = entrada.nextInt();
+
+        System.out.println("La raíz de " + numero + " es " + Math.sqrt(numero));
+
+
+    }
+}
